@@ -1,7 +1,7 @@
 # healthcare-cost-prediction
 This Django app predicts healthcare costs based on user input of name, age, gender, BMI, number of children, smoker status, and US region. It utilizes a random forest model with a 97% training accuracy to provide accurate estimates in $. With this app, users can plan for their healthcare expenses and make informed decisions about their health.
  
-# Project Live Demo
+# Project Website
 https://health-cost-prediction-aayush.onrender.com
 
 # Screenshots
